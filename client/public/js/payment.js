@@ -1,4 +1,4 @@
-var stripe = Stripe("pk_test_xxx");
+var stripe = Stripe("pk_test_51I9rarGJygpJXnP5ahuWyM4mXj0onPYeXGOU6VB3Nu8vDHm0ePmhGPeRjfSNmhv9DkkNAKrLlGUHzUHAqIQwbX4i00dk6yz0Dj");
 var elements = stripe.elements();
 
 var order = {
